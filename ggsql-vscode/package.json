@@ -189,7 +189,7 @@
     "test": "npm run test:grammar && npm run test:extension"
   },
   "dependencies": {
-    "toml": "^3.0.0"
+    "toml": "^5.0.1"
   },
   "devDependencies": {
     "@posit-dev/positron": "^0.2.7",
